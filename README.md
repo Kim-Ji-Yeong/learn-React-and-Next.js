@@ -5,5 +5,5 @@
 - ## [React](https://velog.io/@yeong6415/React-Virtual-DOM)
 
 
-## section 11 👉 NARAS 배포
+## section 11 👉 NARAS 배포(Vercel Practice)
 https://naras-tawny.vercel.app/
